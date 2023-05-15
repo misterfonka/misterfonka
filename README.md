@@ -1,5 +1,9 @@
 ### echo("Hello World 👋")
 
-<h2>Hiya!<h2>
+Hiya! Here is some info about me.
+
+<summary><b> Coding Languages </summary>
   
-Heres a bit about me
+I mainly do Python, Bash, Html, CSS.
+  
+  </details>
