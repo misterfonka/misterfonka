@@ -10,7 +10,7 @@
         Currently learning Python and Bash. Fairly new to coding and don't know too much.<br>
         This account is just for making random repos of projects I make.<br>
         
-### Languages
+### Languages        
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)]
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)]
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)]
