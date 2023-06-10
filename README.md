@@ -9,6 +9,7 @@
         I'm Liam.<br>
         Currently learning Python and Bash. Fairly new to coding and don't know too much.<br>
         This account is just for making random repos of projects I make.<br>
+        I'm interested in ChromeOS and love finding out exploits in it (mainly enrollment based)
         
 ### Languages        
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)]
