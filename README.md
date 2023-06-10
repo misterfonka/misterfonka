@@ -2,6 +2,9 @@
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
+    <a href="https://www.youtube.com/@chr0mebookHacks/videos">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
     <i>
         I'm Liam.<br>
         Currently learning Python and Bash. Fairly new to coding and don't know too much.<br>
