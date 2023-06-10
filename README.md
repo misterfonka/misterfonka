@@ -9,7 +9,9 @@
         I'm Liam.<br>
         Currently learning Python and Bash. Fairly new to coding and don't know too much.<br>
         This account is just for making random repos of projects I make.<br>
-        I'm interested in ChromeOS and love finding out exploits in it (mainly enrollment based).
+        I'm interested in ChromeOS and love finding out exploits in it (mainly enrollment based).<br>
+        Discord: misterfonka#8497<br>
+        Discord Server (ChromeOS exploits):  <a href="https://discord.gg/Art92HQc9D">
         
 ### Languages        
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)]
