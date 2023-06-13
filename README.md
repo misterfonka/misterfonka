@@ -7,8 +7,7 @@
   </a><br><br>
     <i>
         I'm Liam.<br>
-        Currently learning C and C++. Fairly new to coding and don't know too much.<br>
-        This account is just for making random repos of projects I make.<br>
+        Currently learning C and C++.<br>
         I'm interested in ChromeOS and love finding out exploits in it (mainly enrollment based).<br>
         Discord: misterfonka#8497<br>
         Discord Server (ChromeOS exploits): https://discord.gg/Art92HQc9D
