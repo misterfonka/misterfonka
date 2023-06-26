@@ -10,6 +10,7 @@
         Currently learning C and C++.<br>
         I'm interested in ChromeOS and love finding out exploits in it (mainly enrollment based).<br>
         Discord: misterfonka#8497<br>
+        Contact me on Discord to colab on a project together!
         
 ### Languages        
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)]
