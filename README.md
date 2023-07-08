@@ -7,7 +7,7 @@
   </a><br><br>
     <i>
         I'm Liam.<br>
-        Currently learning C and C++.<br>
+        Currently learning Rust and Assembly language.<br>
         I'm interested in ChromeOS and love finding out exploits in it (mainly enrollment based).<br>
         Discord: misterfonka#8497<br>
         Contact me on Discord to colab on a project together!
