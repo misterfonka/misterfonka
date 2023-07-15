@@ -1,16 +1,18 @@
 <h1 align="center">print("Hello World") <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
-<p align="center">
-    <b>Welcome to my page!</b><br><br>
-    <a href="https://www.youtube.com/@chr0mebookHacks/videos">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a><br><br>
-    <i>
-        I'm Liam.<br>
-        Currently learning Rust and Assembly language.<br>
-        I'm interested in ChromeOS and love finding out exploits in it (mainly enrollment based).<br>
-        Discord: misterfonka#8497<br>
-        Contact me on Discord to colab on a project together!
+I'm Liam.<br>
+Currently learning Rust and Assembly language.<br>
+I'm interested in ChromeOS and like finding out exploits in it (mainly enrollment based).<br>
+Discord: misterfonka#8497<br>
+[Discord server](https://discord.gg/Art92HQc9D) (chromeOS exploits)<br>
+Contact me on Discord to make a project together!
+
+### Projects
+
+[MushMod](https://github.com/misterfonka/MushMod) - Tool that modifies the fakemurk mush shell to have extra utilities.<br>
+[CrOS Utility Script](https://github.com/misterfonka/CrOS-Utility-Script) - Utility script for chromeOS that comes with a bunch of useful utilities for debugging.<br>
+[Shim Builder](https://github.com/misterfonka/Shim-Builder) - Script that will generate (unsigned) chromeOS RMA/Factory shims.<br>
+[GBBUtils](https://github.com/misterfonka/GBBUtils) - Useful script making modifying your chromebooks GBB/Google Binary Block flags easier.
         
 ### Languages        
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)]
