@@ -2,9 +2,8 @@
 
 I'm Liam.<br>
 Currently learning Rust and Assembly language.<br>
-I'm interested in ChromeOS and like finding out exploits in it (mainly enrollment based).<br>
-Discord: misterfonka#8497<br>
-[Discord server](https://discord.gg/Art92HQc9D) (chromeOS exploits)<br>
+I'm interested in ChromeOS internals.<br>
+Discord: misterfonka<br>
 Contact me on Discord to make a project together!
 
 ### Projects
