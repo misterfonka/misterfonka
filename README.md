@@ -19,7 +19,8 @@
 [![ChromiumOS](https://img.shields.io/badge/ChromiumOS-white?style=flat-square&logo=google-chrome)](https://www.chromium.org/chromium-os/)
 
 hi! i'm misterfonka (he/him), a programmer who currently knows<br>
-bash, python, c, c++, rust, and assembly.
+bash, python, c, c++, rust, and assembly. i'm mainly interested in<br>
+chromeOS internals.
 
 ### Projects
 
