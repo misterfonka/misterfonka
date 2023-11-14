@@ -1,4 +1,4 @@
-<h1 align="center">print("Hello World") <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">print("Hello World 👋")</h1>
 
 [![Email](https://img.shields.io/badge/-misterfonka@gmail.com-black?style=social&logo=Gmail)](mailto:misterfonka@gmail.com)
 [![Discord](https://img.shields.io/badge/-@misterfonka-black?style=social&logo=Discord)](https://discord.com/users/871556779455176745)
