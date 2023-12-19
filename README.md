@@ -21,10 +21,3 @@
 hi! i'm misterfonka (he/him), a programmer who currently knows<br>
 bash, python, c, c++, rust, and assembly. i'm mainly interested in<br>
 chromeOS internals.
-
-### Projects
-
-[MushMod](https://github.com/misterfonka/MushMod) - Tool that modifies the fakemurk mush shell to have extra utilities.<br>
-[CrOS Utility Script](https://github.com/misterfonka/CrOS-Utility-Script) - Utility script for chromeOS that comes with a bunch of useful utilities for debugging.<br>
-[Shim Builder](https://github.com/misterfonka/Shim-Builder) - Script that will generate (unsigned) chromeOS RMA/Factory shims.<br>
-[GBBUtils](https://github.com/misterfonka/GBBUtils) - Useful script making modifying your chromebooks GBB/Google Binary Block flags easier.
