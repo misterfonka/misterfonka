@@ -18,4 +18,11 @@
 [![C](https://img.shields.io/badge/--black?style=flat-square&logo=C)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![ChromiumOS](https://img.shields.io/badge/ChromiumOS-white?style=flat-square&logo=google-chrome)](https://www.chromium.org/chromium-os/)
 
-Hello! I'm a versatile software developer proficient in a spectrum of languages, including C, Rust, Assembly, Python, and shell languages like Bash and Zsh.
+Hello! I'm a versatile software developer proficient in a spectrum of languages, including: 
+
+- C <br>
+- Rust <br>
+- Assembly <br>
+- Python <br>
+- Bash <br>
+- Zsh <br>
