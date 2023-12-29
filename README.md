@@ -1,6 +1,6 @@
 <h1 align="center">print("Hello World 👋")</h1>
 
-[![Email](https://img.shields.io/badge/-misterfonka@proton.me-black?style=social&logo=Proton)](mailto:misterfonka@proton.me)
+[![Proton Mail](https://img.shields.io/badge/-misterfonka@proton.me-black?style=social&logo=Proton)](mailto:misterfonka@proton.me)
 [![Discord](https://img.shields.io/badge/-@misterfonka-black?style=social&logo=Discord)](https://discord.com/users/871556779455176745)
 [![Matrix](https://img.shields.io/badge/-@misterfonka:matrix.org-black?style=social&logo=Matrix)](https://matrix.org)
 
