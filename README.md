@@ -17,6 +17,7 @@
 [![Rust](https://img.shields.io/badge/-Rust-orange?style=flat-square&logo=Rust)](https://www.rust-lang.org)
 [![C](https://img.shields.io/badge/--black?style=flat-square&logo=C)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![ChromiumOS](https://img.shields.io/badge/ChromiumOS-white?style=flat-square&logo=google-chrome)](https://www.chromium.org/chromium-os/)
+![](https://komarev.com/ghpvc/?username=misterfonka&style=flat-square&color=blueviolet)
 
 Hello! I'm a versatile software developer proficient in a spectrum of languages, including: 
 
