@@ -19,11 +19,24 @@
 [![ChromiumOS](https://img.shields.io/badge/ChromiumOS-white?style=flat-square&logo=google-chrome)](https://www.chromium.org/chromium-os/)
 ![](https://komarev.com/ghpvc/?username=misterfonka&style=flat-square&color=blueviolet)
 
-Hello! I'm a versatile software developer proficient in a spectrum of languages, including: 
+![](https://raw.githubusercontent.com/misterfonka/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/misterfonka/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
-- C <br>
-- Rust <br>
-- Assembly <br>
-- Python <br>
-- Bash <br>
-- Zsh <br>
+## 📖・About Me
+- 💻・Middle school programmer
+- 🏢・Interested in ChromeOS enterprise management
+- 🤖・I'm learning about artificial intelligence
+- 🌐・Arch + Hyprland btw
+## 🧑‍💻・Programming Languages
+- C
+- Assembly
+- Rust
+- Python
+- Web development (HTML, CSS, JS)
+- Shell languages (Bash, ZSH, DOS, Powershell)
+## 📊・What I'm Working On
+- 🔓・Unblocked Cave V2
+- 🔌・shimutils
+
+<!-- Credits to trinib for this image -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg">
